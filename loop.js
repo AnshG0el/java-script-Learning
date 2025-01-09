@@ -56,3 +56,4 @@ for(let i=0;i<cities.length;i++){
 citylist[i]=cities[i]
 }
 console.log(citylist);
+

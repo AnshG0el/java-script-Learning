@@ -23,9 +23,11 @@ console.log(Number(str));
 let arr=["ansh",23,["ansh","goel"],{name:"ansh",lastname:"goel"}] 
 // now we access the value of this array with index 
 console.log(arr[0])
+console.log(arr.length);
 // agr hum array ki sari value access krna chahte h toh toh hum usko foreach loop ki help se access kr skte h 
 arr.forEach(function(val){
 console.log(val);
 }
 );
+
 
